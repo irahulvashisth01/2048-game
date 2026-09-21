@@ -19,7 +19,7 @@ A simple and fun browser-based **2048 Puzzle Game** built using HTML, CSS, and J
 
 ## 🚀 Play Online
 
-[Play 2048 Game](https://2048-game-umber.vercel.app/)
+[Play 2048 Game]([https://2048-game-umber.vercel.app/)](https://2048-game-ten-ashen.vercel.app/)
 
 ## 👨‍💻 Developer
 
